@@ -10,4 +10,4 @@ If you would like to make any contributions please fork the repo and submit a pu
 
 Thanks
 
-You can view the project at www.
+You can view the project <a href="https://donnydrose.github.io/thecoffeeshop/">here</a>
