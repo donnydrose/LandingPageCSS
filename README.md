@@ -2,7 +2,7 @@ Hi. Welcome to the Landing page project.
 
 The purpose of this project is to create an almost identical webpage to the attached photo here.
 
-<img src="./resources/images/landing page original photo example.png" width="450px" height="400px">
+<img src="./image.png" width="450px" height="400px">
 
 HTML and CSS are used to create this replica
 
