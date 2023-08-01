@@ -8,6 +8,7 @@ HTML and CSS are used to create this replica
 
 If you would like to make any contributions please fork the repo and submit a pull request.
 
-Thanks
 
-You can view the project at www.
+You can view the project <a href="https://donnydrose.github.io/thecoffeeshop/">here</a>
+
+Thanks
